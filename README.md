@@ -1,0 +1,3 @@
+# FreeHDWallpapers
+A few free HD nature/landscape wallpapers to get started with i3wm-dwm-bswm-spectrwm etc...
+They're free as far as I know if not contact me for removal
